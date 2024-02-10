@@ -136,7 +136,7 @@ def get_password(website):
    return None
 
 # Infinite loop to keep the program running until the user chooses to quit.
-print("Welcome to SafeManager - A locally stored Password Manager\n")
+print("\nWelcome to SafeManager - A locally stored Password Manager\n")
 while True:
    print("1. Register")
    print("2. Login")
