@@ -4,11 +4,13 @@ Managing passwords yourself is a hell of a job and if u are like me with tons of
 
 To Note:
 1.  If one opts for seeing the saved websites without saving any, they will face an error.
-2.  NEED TO HAVE A COPY PASTE MECHANISM INSTALLED IN THE SYSTEM <br>
+2.  NEED TO HAVE A COPY PASTE MECHANISM INSTALLED IN THE SYSTEM: <br>
+    ```
     sudo apt-get install xsel <br>
     sudo apt-get install xclip <br>
     pip install gtk   - WIn <br>
     pip install PyQt4  -win <br>
     and etc. <br>
+    ```
     
 Open to suggestions and pull requests.
