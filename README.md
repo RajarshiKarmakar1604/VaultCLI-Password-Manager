@@ -4,7 +4,7 @@ Managing passwords yourself is a hell of a job and if u are like me with tons of
 
 >To Note:
 1.  If one opts for seeing the saved websites without saving any, they will face an error.
-2.  Need to have a copy mechanism installed
+2.  Need to have a copy mechanism installed:
 
     ```
     sudo apt-get install xsel
